@@ -1,7 +1,7 @@
 ## Hi there :rocket:
 
-Me chamo Hemerson kawan, sou estudade de programação front end, tenho 21 anos, tenho uma grande paixão pela tecnologia, principalmente pela area do desenvolvimento web
-e quero espreça minhas habilidades e conhecimento por meio do dessa plataforma.
+Me chamo Hemerson kawan, sou estudade de programação front end, tenho 21 anos, tenho uma grande paixão pela tecnologia, principalmente pela area de desenvolvimento web
+e quero expressar minhas habilidades e conhecimento por meio dessa plataforma.
 
  <h2>Contatos :iphone: </h2>
 
